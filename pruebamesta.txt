@@ -1,2 +1,5 @@
 Diego tiene hambre
 Diego muere de hambre
+
+Diego sigue teniendo hambre
+
